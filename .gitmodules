@@ -1,0 +1,9 @@
+[submodule "ml"]
+	path = ml
+	url = https://github.com/Ferraronp/github2CV_ML.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Tsirek/resumehub-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/gonnem2/tender-parser.git
